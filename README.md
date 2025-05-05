@@ -52,7 +52,7 @@
 
 <!-- GitHub doesn't support <iframe>, so use image version of badge -->
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/1866740.png" alt="TryHackMe" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NBalaji.png" alt="Your Image Badge" />
 </p>
 
 ---
